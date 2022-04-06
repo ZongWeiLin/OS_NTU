@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "threads.h": "c",
+        "types.h": "c",
+        "setjmp.h": "c",
+        "user.h": "c"
+    }
+}
